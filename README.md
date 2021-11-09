@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://live.staticflickr.com/65535/51667346183_223730f747_b.jpg" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://live.staticflickr.com/65535/51666337847_5748c12915_b.jpg" alt="Markdownify" width="200"></a>
   <br>
   Markdownify
   <br>
