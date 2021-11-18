@@ -8,7 +8,7 @@ The model was fine tuned for 25 epochs and achieves an testing AUROC value of 0.
 
 The segmentation output of the model on a sample image are shown below.
 
-![Sample segmentation output](https://live.staticflickr.com/65535/51666337847_5748c12915_b.jpg)
+![Sample segmentation output](https://live.staticflickr.com/65535/51688455931_53f2b85a8a_o_d.jpg)
 
 ## Key Features
 
