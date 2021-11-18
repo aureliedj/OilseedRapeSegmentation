@@ -63,6 +63,6 @@ Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning
 
 Th
 
-- M. S. Minhas, “Transfer Learning for Semantic Segmentation using PyTorch DeepLab v3,” GitHub.com/msminhas93, 12-Sep-2019. Available: [https://github.com/aureliedj/DeepLabv3Finetuning](https://github.com/aureliedj/DeepLabv3Finetuning)
+- M. S. Minhas, “Transfer Learning for Semantic Segmentation using PyTorch DeepLab v3,” GitHub.com/msminhas93, 12-Sep-2019. [Online]. Available at [https://github.com/aureliedj/DeepLabv3Finetuning](https://github.com/aureliedj/DeepLabv3Finetuning)
 
 
