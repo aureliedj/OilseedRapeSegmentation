@@ -16,10 +16,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) instal
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/aureliedj/DeepLabv3---Oilseed-Rape-segmentation.git
+$ git clone https://github.com/aureliedj/OilseedRapeSegmentation.git
 
 # Go into the repository
-$ cd DeepLabv3---Oilseed-Rape-segmentation
+$ cd OilseedRapeSegmentation
 
 # Install dependencies
 $ npm install
