@@ -57,7 +57,7 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## Citations
 
-- L.-C. Chen, Y. Zhu, G. Papandreou, F. Schroff, and H. Adam, ‘Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation’, arXiv:1802.02611 [cs], Aug. 2018, Available: http://arxiv.org/abs/1802.02611{http://arxiv.org/abs/1802.02611}
+- L.-C. Chen, Y. Zhu, G. Papandreou, F. Schroff, and H. Adam, ‘Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation’, arXiv:1802.02611 [cs], Aug. 2018, Available: [http://arxiv.org/abs/1802.02611](http://arxiv.org/abs/1802.02611)
 
 
 
