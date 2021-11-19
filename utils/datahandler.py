@@ -3,7 +3,6 @@ from pathlib import Path
 from torch.utils.data import DataLoader
 from utils.segdataset import SegmentationDataset
 from torchvision import transforms as T
-from utils.augdata import aug_pipeline
 import torch
 
 def get_dataloader_sep_folder(data_dir: str,
