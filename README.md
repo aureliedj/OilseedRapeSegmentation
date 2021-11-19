@@ -4,11 +4,11 @@ This repository contains code for Fine Tuning [DeepLabV3 ResNet101](https://arxi
 
 The model is fine tunned on field images of oilseed intercrop data-set. [X. Bousselin, 2021](https://www.mdpi.com/2073-4395/11/8/1493#cite)
 
-The model was fine tuned for 25 epochs and achieves an testing mean Accuracy value of 0.968.
+The model was fine tuned for 25 epochs and achieves an testing mean IoU value of 0.864.
 
 The segmentation output of the model on a sample image are shown below.
 
-<img src="https://live.staticflickr.com/65535/51691461915_dc945f0c04_o_d.png" width=60% >
+<img src="https://live.staticflickr.com/65535/51691461915_dc945f0c04_o_d.png" width=75% >
 
 ## How To Use
 
