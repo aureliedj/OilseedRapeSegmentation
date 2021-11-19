@@ -8,7 +8,7 @@ The model was fine tuned for 25 epochs and achieves an testing mean Accuracy val
 
 The segmentation output of the model on a sample image are shown below.
 
-![Sample segmentation output](https://live.staticflickr.com/65535/51688455931_53f2b85a8a_o_d.jpg)
+![Sample segmentation output](https://live.staticflickr.com/65535/51691461915_dc945f0c04_o_d.png)
 
 ## How To Use
 
