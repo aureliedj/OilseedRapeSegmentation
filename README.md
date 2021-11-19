@@ -31,13 +31,15 @@ $ npm start
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 
-## Credits
+## Credits & References
 
 - M. S. Minhas, “Transfer Learning for Semantic Segmentation using PyTorch DeepLab v3,” GitHub.com/msminhas93, 12-Sep-2019. [Online]. Available: [https://github.com/aureliedj/DeepLabv3Finetuning](https://github.com/aureliedj/DeepLabv3Finetuning)
 
-## Citations
-
 - L.-C. Chen, Y. Zhu, G. Papandreou, F. Schroff, and H. Adam, ‘Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation’, arXiv:1802.02611 [cs], Aug. 2018, Available: [http://arxiv.org/abs/1802.02611](http://arxiv.org/abs/1802.02611)
+
+## Citation
+
+
 
 
 
