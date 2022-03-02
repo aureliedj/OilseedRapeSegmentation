@@ -10,25 +10,6 @@ The segmentation output of the model on a sample image are shown below.
 
 <img src="https://live.staticflickr.com/65535/51691461915_dc945f0c04_o_d.png" width=75% >
 
-## How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/aureliedj/OilseedRapeSegmentation.git
-
-# Go into the repository
-$ cd OilseedRapeSegmentation
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
-
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 
 ## Credits & References
@@ -37,7 +18,6 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 - L.-C. Chen, Y. Zhu, G. Papandreou, F. Schroff, and H. Adam, ‘Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation’, arXiv:1802.02611 [cs], Aug. 2018, Available: [http://arxiv.org/abs/1802.02611](http://arxiv.org/abs/1802.02611)
 
-## Citation
 
 
 
