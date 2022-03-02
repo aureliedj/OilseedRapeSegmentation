@@ -10,7 +10,7 @@ The segmentation output of the model on a sample image are shown below.
 
 
 
-## Credits & References
+#### Credits & References
 
 - M. S. Minhas, “Transfer Learning for Semantic Segmentation using PyTorch DeepLab v3,” GitHub.com/msminhas93, 12-Sep-2019. [Online]. Available: [https://github.com/aureliedj/DeepLabv3Finetuning](https://github.com/aureliedj/DeepLabv3Finetuning)
 
