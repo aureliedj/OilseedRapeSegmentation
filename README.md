@@ -2,9 +2,7 @@
 
 This repository contains code for Fine Tuning [DeepLabV3 ResNet101](https://arxiv.org/abs/1706.05587) in PyTorch. The model is from the [torchvision module](https://pytorch.org/docs/stable/torchvision/models.html#semantic-segmentation). 
 
-The model is fine tunned on field images of oilseed intercrop data-set. 
-
-The model was fine tuned for 25 epochs and achieves an testing mean IoU value of 0.864.
+Pretrained DeepLabV3 Resnet101 on Pascal VOC dataset is fine tuned on field images of oilseed intercrop data-set over 25 epochs and achieves an testing mean IoU value of 0.864.
 
 The segmentation output of the model on a sample image are shown below.
 
