@@ -9,6 +9,11 @@ The segmentation output of the model on a sample image are shown below.
 <img src="https://live.staticflickr.com/65535/51691461915_dc945f0c04_o_d.png" width=60% >
 
 
+#### Aknowledgement
+
+[Projet ICARO]
+
+
 
 #### Credits & References
 
