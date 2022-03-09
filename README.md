@@ -11,7 +11,7 @@ The segmentation output of the model on a sample image are shown below.
 
 #### Aknowledgement
 
-[Projet ICARO]
+This research was funded by Agroscope (Swiss confederation), UFA Samen, Florin and Nurtriswiss as part of the ICARO project. 
 
 
 
